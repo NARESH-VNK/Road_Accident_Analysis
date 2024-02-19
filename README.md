@@ -34,6 +34,7 @@
 
 - Data for road accidents for the years 2021 and 2022.
 - Information on casualties, accident severity, vehicle types involved, road types, location details, and time of occurrence.
+- Dataset https://drive.google.com/drive/folders/1J1Q0juYHnpMCcTC2HOIMJJzDOygrq7gs?usp=sharing
 
 ### Dashboard Interface:
 
